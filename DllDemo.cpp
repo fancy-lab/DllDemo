@@ -25,5 +25,5 @@ CDllDemo::CDllDemo()
 int CDllDemo::add(int a, int b)
 {
     // TODO: 在此处添加实现代码.
-    return 0;
+    return a + b;
 }
